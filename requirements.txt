@@ -8,3 +8,4 @@ python-multipart
 crewai
 crewai-tools
 python-dotenv
+pypdf
